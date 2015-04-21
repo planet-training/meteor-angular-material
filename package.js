@@ -1,7 +1,7 @@
 Package.describe({
   summary: "Angular-Material components",
   name: "planettraining:angular-material",
-  version: "0.0.3",
+  version: "0.0.4",
   git: "https://github.com/planet-training/meteor-angular-material.git"
 });
 
