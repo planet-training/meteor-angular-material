@@ -1,7 +1,7 @@
 Package.describe({
   summary: "Google Material design written for AngularJs (official repo)",
-  name: "angular:material",
-  version: "0.9.0-rc2",
+  name: "angular:angular-material",
+  version: "0.9.0-rc3",
   git: "https://github.com/angular/bower-material.git"
 });
 
