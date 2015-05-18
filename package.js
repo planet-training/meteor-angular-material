@@ -1,7 +1,7 @@
 Package.describe({
   summary: "Google Material design written for AngularJs (official repo)",
   name: "angular:angular-material",
-  version: "0.9.0",
+  version: "0.9.4",
   git: "https://github.com/angular/bower-material.git"
 });
 
@@ -12,6 +12,6 @@ Package.onUse(function (api) {
   api.addFiles([
     /* material-angular base packages */
     'bower_components/angular-material/angular-material.js',
-    'bower_components/angular-material/angular-material.min.css'
+    'bower_components/angular-material/angular-material.css'
   ], "client");
 });
