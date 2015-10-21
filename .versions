@@ -1,6 +1,6 @@
 angular:angular@1.4.6
 angular:angular-animate@1.4.6
 angular:angular-aria@1.4.6
-angular:angular-material@0.12.0-rc1
+angular:angular-material@1.0.0-rc1
 meteor@1.1.9
 underscore@1.0.4
