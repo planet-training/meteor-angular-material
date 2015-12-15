@@ -7,7 +7,8 @@ Package.describe({
 
 Package.onUse(function (api) {
 
-  api.use(["angular:angular@1.4.6", "angular:angular-animate@1.4.6", "angular:angular-aria@1.4.6"],"client");
+  api.use(["angular:angular@1.4.8", "angular:angular-animate@1.4.8", "angular:angular-aria@1.4.8"],"client");
+
   api.addFiles([
     /* material-angular base packages */
     'bower_components/angular-material/angular-material.js',
